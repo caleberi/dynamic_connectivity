@@ -1,0 +1,1 @@
+g++ -g -I"C:\Program Files\Java\jdk1.8.0_181\include"  -I"C:\Program Files\Java\jdk1.8.0_181\include\win32"  C:\Users\Hebronace\Desktop\c++\alogrithms\network\src\main.cpp  -o C:\Users\Hebronace\Desktop\c++\alogrithms\network\src\main  -L"C:\Program Files\Java\jdk1.8.0_181\lib"
